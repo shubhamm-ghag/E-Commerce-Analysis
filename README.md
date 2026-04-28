@@ -22,4 +22,4 @@ Source = Google.
 = Trends: Visualized monthly sales trends to identify peak performance periods.
 
 6. ( Snapshot )
-
+https://github.com/shubhamm-ghag/E-Commerce-Analysis/blob/main/Screenshot%202026-04-28%20132716.png
