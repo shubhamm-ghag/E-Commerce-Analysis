@@ -17,9 +17,9 @@
 Source = Google. 
 
 5. ( BUSINESS INSIDE )
-= Order Fulfillment: Tracked the volume of "Completed Orders" vs. total orders.
-= Product Performance: Identified "Premium Items Sold" (Unit Price > 100) and analyzed product category distributions.
-= Trends: Visualized monthly sales trends to identify peak performance periods.
+* Order Fulfillment: Tracked the volume of "Completed Orders" vs. total orders.
+* Product Performance: Identified "Premium Items Sold" (Unit Price > 100) and analyzed product category distributions.
+* Trends: Visualized monthly sales trends to identify peak performance periods.
 
 6. ( Snapshot )
 https://github.com/shubhamm-ghag/E-Commerce-Analysis/blob/main/Screenshot%202026-04-28%20132716.png
